@@ -1,0 +1,6 @@
+.env
+temp_downloads/
+__pycache__/
+*.pyc
+*.log
+history.json.tmp
