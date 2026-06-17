@@ -90,6 +90,13 @@
             "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1781672433/fkziumkpcagbngr43r37.mp4",
             "instagram_media_id": "18002407373941962",
             "status": "published"
+        },
+        "1QXVXGPTtjLQX4vliPJhiqMi1keL2DsPe": {
+            "name": "ai_papparazi-20251220-0011.mp4",
+            "uploaded_at": "2026-06-17T09:17:55.355862",
+            "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1781687831/bgohgkxg5onbfuu2ya8i.mp4",
+            "instagram_media_id": "18035268575816690",
+            "status": "published"
         }
     }
 }
