@@ -202,6 +202,13 @@
             "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1781845233/f9nrm7uhosrf5widz4e6.mp4",
             "instagram_media_id": "17998590845782702",
             "status": "published"
+        },
+        "1_JytHvVylr8rAQNW3DNzgL0pyOFLltsu": {
+            "name": "aizone.07-20251220-0001.mp4",
+            "uploaded_at": "2026-06-19T09:18:20.448402",
+            "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1781860656/jnsnzqkymevuc7oelcqd.mp4",
+            "instagram_media_id": "18082417649192404",
+            "status": "published"
         }
     }
 }
