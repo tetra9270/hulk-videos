@@ -1210,6 +1210,13 @@
             "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1783272890/iuq4yhsflpoits9q1lb0.mp4",
             "instagram_media_id": "17901563823465327",
             "status": "published"
+        },
+        "107jNY5WuxGZUzYyKG5kw2LnJ9H8LBZlL": {
+            "name": "halku.official-20251222-0037.mp4",
+            "uploaded_at": "2026-07-05T19:02:25.660567",
+            "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1783278055/ppsv9bkn83qmdsxihmoi.mp4",
+            "instagram_media_id": "18132649318594175",
+            "status": "published"
         }
     }
 }
