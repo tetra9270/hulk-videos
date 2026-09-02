@@ -3163,6 +3163,13 @@
             "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1788290821/npgm1vbe8dahfz7gpm2g.mp4",
             "instagram_media_id": "17943496863072265",
             "status": "published"
+        },
+        "1NUhBRJkymaC4SDyT3aUp4RHKRd_pvWqP": {
+            "name": "vip.hulku-20251220-0001.mp4",
+            "uploaded_at": "2026-09-02T08:53:29.816736",
+            "cloudinary_url": "https://res.cloudinary.com/dyakw1ukg/video/upload/v1788339167/ot7xj6iqr0ajs0grj7xy.mp4",
+            "instagram_media_id": "18181492159416417",
+            "status": "published"
         }
     }
 }
